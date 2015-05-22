@@ -1,6 +1,6 @@
 # filepicker
 
-Filepicker.io integration package.  
+Filepicker.io Bower integration package.  
 
 Have to give credit to the original author of this package:
 
