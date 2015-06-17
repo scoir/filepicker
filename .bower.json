@@ -7,14 +7,14 @@
   "dependencies": {},
   "devDependencies": [],
   "private": false,
-  "homepage": "https://github.com/dysfunc/filepicker.io",
+  "homepage": "https://github.com/scoir/filepicker",
   "_release": "be352bb449",
   "_resolution": {
     "type": "branch",
     "branch": "master",
     "commit": "be352bb449149b3d04c3c6f596ac841947872bea"
   },
-  "_source": "git://github.com/dysfunc/filepicker.io.git",
+  "_source": "git://github.com/scoir/filepicker.git",
   "_target": "*",
   "_originalSource": "filepicker"
 }
