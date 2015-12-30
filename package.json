@@ -1,0 +1,20 @@
+{
+  "name": "filepicker",
+  "version": "2.0.0",
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/scoir/filepicker.git"
+  },
+  "main": [
+    "filepicker.min.js"
+  ],
+  "ignore": [],
+  "dependencies": {},
+  "devDependencies": [],
+  "private": false,
+
+  "license": "MIT",
+  "files": [
+    "filepicker.min.js"
+  ]
+}
